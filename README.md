@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, I'm Vedant Salke! 👋
 
 # 💫 About Me:
 I am a Full Stack Developer deeply interested in Artificial Intelligence, Machin Learning, and Web Development.<br>I'm passionate about coding, open-source, and learning new technologies. Feel free to explore my repositories<br><br>🔭 I’m currently working on my project LocAgrow.<br>🌱 "I am actively exploring and improving my skills in MERN Stack.
