@@ -17,7 +17,7 @@ I am a Full Stack Developer deeply interested in Artificial Intelligence, Machin
 
 ---
 
-## How to Reach Me:
+## 🤝 How to Reach Me:
 Feel free to reach out to me via the platforms shared below.
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
