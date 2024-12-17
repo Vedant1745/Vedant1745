@@ -10,6 +10,13 @@ I am a Full Stack Developer deeply interested in Artificial Intelligence, Machin
 
 ---
 
+## 🚀 Projects:
+1. **LocAgrow**: A One Step Soution for the farmers and the local buyers made using **MERN stack**.  
+   [LocAgrow](https://github.com/Vedant1745/LocAgrow) | [Live Website](https://loc-agrow.vercel.app/)
+
+
+---
+
 ## How to Reach Me:
 Feel free to reach out to me via the platforms shared below.
 <div align="left">
