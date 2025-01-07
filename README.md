@@ -1,9 +1,8 @@
 # Hello World!, I'm Vedant Salke, a Web Developer! 👋🏼
 
 ## 💫 About Me:
-I am a Full Stack Developer deeply interested in Artificial Intelligence, Machine Learning, and Web Development.
-- I'm passionate about coding, open-source, and learning new technologies.
-- Feel free to explore my repositories<br><br>🔭 I’m currently working on my project LocAgrow.
+I am a Full Stack Developer deeply interested in Artificial Intelligence, Machine Learning, and Web Development.I'm passionate about coding, open-source, and learning new technologies.Feel free to explore my repositories<br><br>
+- 🔭 I’m currently working on my project LocAgrow.
 - 🌱 "I am actively exploring and improving my skills in MERN Stack.
 ---
 
