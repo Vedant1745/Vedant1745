@@ -40,7 +40,7 @@ Feel free to reach out to me via the platforms shared below.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant1745&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&layout=compact" alt="vedant1745" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant1745&show_icons=true&locale=en&layout=compact" alt="vedant1745" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant1745&show_icons=true&locale=en" alt="vedant1745" /></p>
 
 ---
 
