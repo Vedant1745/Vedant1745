@@ -36,8 +36,9 @@ Feel free to reach out to me via the platforms shared below.
 ###
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant1745&show_icons=true&theme=tokyonight&hide_border=false&locale=en" alt="vedant1745" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant1745&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&layout=compact" alt="vedant1745" /></p>
+![](https://github-readme-stats.vercel.app/api?username=vedant1745&show_icons=true&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant1745&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vedant1745" /></p>
 
 ---
 
