@@ -38,6 +38,11 @@ Feel free to reach out to me via the platforms shared below.
 ![](https://github-readme-stats.vercel.app/api?username=Vedant1745&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant1745&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant1745&show_icons=true&locale=en" alt="vedant1745" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant1745&" alt="vedant1745" /></p>
+
 ---
 
 
