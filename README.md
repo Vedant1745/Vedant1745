@@ -39,7 +39,7 @@ Feel free to reach out to me via the platforms shared below.
 ###
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=vedant1745&show_icons=true&theme=tokyonight)
+![Vedant Salke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant1745&show_icons=true&theme=tokyonight)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant1745&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vedant1745" /></p>
 
