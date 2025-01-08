@@ -41,7 +41,6 @@ Feel free to reach out to me via the platforms shared below.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant1745&show_icons=true&locale=en" alt="vedant1745" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant1745&" alt="vedant1745" /></p>
 
 ---
 
