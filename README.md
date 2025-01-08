@@ -7,7 +7,7 @@ I am a Full Stack Developer deeply interested in Artificial Intelligence, Machin
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant1745/vedant1745/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedant1745/vedant1745/output/github-contribution-grid-snake.svg">
+
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedant1745/vedant1745/output/github-contribution-grid-snake.svg">
 </picture>
 
