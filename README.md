@@ -4,8 +4,9 @@
 I am a Full Stack Developer deeply interested in Artificial Intelligence, Machine Learning, and Web Development. I'm passionate about coding, open-source, and learning new technologies. Feel free to explore my repositories<br>
 - 🔭 I’m currently working on my project LocAgrow.
 - 🌱 "I am actively exploring and improving my skills in MERN Stack.
+---
 
-
+![snake gif](https://github.com/Vedant1745/Vedant1745/blob/output/github-snake-dark.svg)
 
 
 ---
