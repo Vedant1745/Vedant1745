@@ -1,4 +1,4 @@
-#                                                             Hello World!, I'm Vedant Salke, a Web Developer! 👋🏼
+# Hello World!, I'm Vedant Salke, a Web Developer! 👋🏼
 
 ## 💫 About Me:
 I am a Full Stack Developer deeply interested in Artificial Intelligence, Machine Learning, and Web Development. I'm passionate about coding, open-source, and learning new technologies. Feel free to explore my repositories<br>
