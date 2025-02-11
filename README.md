@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 I am a Full Stack Developer and a Computer Science UnderGrad.<br>
-- 🔭 I’m currently working on my project LocAgrow.
+- 🔭 
 - 🌱 "I am actively exploring and improving my skills in MERN Stack.
 ---
 
