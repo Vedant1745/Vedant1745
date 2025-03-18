@@ -1,5 +1,5 @@
 # Hello World!, I am Vedant Salke.
-## 💫 About Me:
+
 I am a Full Stack Developer and a Computer Science UnderGrad.<br>
 - 🔭 
 - 🌱 "I am actively exploring and improving my skills in MERN Stack.
