@@ -1,5 +1,4 @@
 # Hello World!
-
 ## 💫 About Me:
 I am a Full Stack Developer and a Computer Science UnderGrad.<br>
 - 🔭 
