@@ -1,4 +1,4 @@
-# align="center" Hello World!, I am Vedant Salke.
+<h1 align="center"> Hello World!, I am Vedant Salke</h1>
 
 I am a Full Stack Developer and a Computer Science UnderGrad.<br>
 - 🌱 "I am actively exploring and improving my skills in MERN Stack.
