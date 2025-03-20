@@ -1,6 +1,7 @@
 <h1 align="center"> Hello World!, I am Vedant Salke</h1>
 
 <h3 align="center">I am a Full Stack Developer and a Computer Science UnderGrad.</h3><br>
+
 - 🌱 "I am actively exploring and improving my skills in MERN Stack.
 ---
 
