@@ -2,7 +2,7 @@
 
 <h3 align="center">A Full Stack Developer and a Computer Science UnderGrad.</h3><br>
 
-- 🌱 "I am actively exploring and improving my skills in MERN Stack.
+
 ---
 
 <picture>
