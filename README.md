@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World!, I am Vedant Salke</h1>
 
-<h3 align="center">A Full Stack Developer and a Computer Science UnderGrad.</h3><br>
+<h3 align="center">A Computer Science UnderGrad.</h3><br>
 
 
 ---
